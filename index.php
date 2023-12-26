@@ -25,7 +25,7 @@ error_reporting(0);
 			<br><br><div class="card">
 
 				<div class="card-header bg-dark">
-					<h1 class="text-white text-center">Insert Student Data</h1>
+					<h1 class="text-white text-center">Insert Student Information</h1>
 					
 				</div>
 				
